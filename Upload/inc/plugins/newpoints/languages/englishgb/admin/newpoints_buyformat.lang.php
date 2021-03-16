@@ -7,7 +7,7 @@
  *   
  *   Website: http://udezain.com.ar || http://mundomybb.com
  *
- *   Allow users to buy username format styles predefined by adminsitratos.
+ *   Allow users to buy username format styles predefined by administrators.
  *
  ***************************************************************************/
 
@@ -29,7 +29,7 @@ $l['npbf_author'] = "Omar G. & Edzon Ordaz & edits by Vintagedaddyo";
 $l['npbf_apply_edits'] = "Apply Edits";
 $l['npbf_undo_edits'] = "Undo Edits";  
 $l['npbf_title'] = "Buy Format";
-$l['npbf_title_desc'] = "Allow users to buy username format styles predefined by adminsitratos.";
+$l['npbf_title_desc'] = "Allow users to buy username format styles predefined by administrators.";
 $l['npbf_view'] = "View Styles";
 $l['npbf_view_desc'] = "Here you can view format styles.";
 $l['npbf_add'] = "Add Style";

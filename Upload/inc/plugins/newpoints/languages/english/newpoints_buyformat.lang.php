@@ -7,7 +7,7 @@
  *   
  *   Website: https://github.com/Sama34/Newpoints-Buy-Format
  *
- *   Allow users to buy username format styles predefined by adminsitratos.
+ *   Allow users to buy username format styles predefined by administrators.
  *
  ***************************************************************************/
 
