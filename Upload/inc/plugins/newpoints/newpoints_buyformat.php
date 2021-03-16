@@ -84,7 +84,7 @@ function newpoints_buyformat_info()
 		'description'	=> $lang->npbf_title_desc,
 		'website'		=> 'https://github.com/Sama34/Newpoints-Buy-Format',
 		'author'		=> $lang->npbf_author,
-		'authorsite'	=> 'https://github.com/Sama34/Newpoints-Buy-Format',
+		'authorsite'	=> 'https://github.com/vintagedaddyo/MyBB_Plugin-Newpoints-Buy-Format',
 		'version'		=> '1.1',
 		'compatibility'	=> '*'
 	);
